@@ -1,0 +1,130 @@
+
+/* =========================
+   Global Reset & Base
+========================= */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Georgia, serif;
+    line-height: 1.6;
+    background-color: #f6f8f5; /* very light pale tone */
+    color: #111;
+    padding: 1rem;
+}
+
+/* =========================
+   Links
+========================= */
+
+a {
+    color: #0b4f2c; /* distinctive dark green */
+}
+
+a:visited {
+    color: #0b4f2c;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* =========================
+   Typography
+========================= */
+
+/* Sophisticated default system sans-serif stack */
+.site-header,
+.site-header h1,
+header h2,
+nav {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+                 Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+h1 {
+    margin-bottom: 0.5rem;
+}
+
+h2 {
+    margin: 1.5rem 0 1rem 0;
+}
+
+h3 {
+    margin: 1rem 0 .5rem 0;
+}
+
+/* =========================
+   Navigation
+========================= */
+
+.site-header {
+    margin-bottom: 1.5rem;
+}
+
+.site-header nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+    padding-left: 0;
+}
+
+.site-header nav a {
+    text-decoration: none;
+    color: #111;
+    font-weight: 500;
+}
+
+.site-header nav a:hover {
+    text-decoration: underline;
+}
+
+/* =========================
+   Lists
+========================= */
+
+#page-content ul,
+#page-content ol {
+    margin: 1rem 0 1rem 1.75rem; /* appropriate indent */
+}
+
+#page-content li {
+    margin-bottom: 0.5rem;
+}
+
+/* =========================
+   Page Content
+========================= */
+
+#page-content {
+    margin-bottom: 2rem;
+}
+
+/* =========================
+   Footer
+========================= */
+
+footer {
+    margin-top: 1rem;
+}
+
+footer small {
+    font-size: 0.8rem;
+    color: #555;
+}
+
+/* =========================
+   Responsive Layout
+========================= */
+
+/* Larger than large smartphone (~768px and up) */
+@media (min-width: 768px) {
+    body {
+        max-width: 60%;
+        margin: 0 auto;
+    }
+}
