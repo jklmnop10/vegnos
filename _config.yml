@@ -1,7 +1,7 @@
 lang: en
 title: Vegnos
 description: Research and education on non-human intelligences or extraterrestrials and the implications these have for the human being. 
-
+baseurl: "/vegnos"
 markdown: kramdown
 theme:
 plugins:
