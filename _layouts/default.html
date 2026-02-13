@@ -8,20 +8,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#ffffff">
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-    <link rel="stylesheet" href="/assets/css/stylesheet.css">
+    <link rel="stylesheet" href="/vegnos/assets/css/stylesheet.css">
+    {% feed_meta %}
 </head>
 <body>
 
 <header id="main-navigation" class="site-header">
     <h1>{{ site.title }}</h1>
-    <nav>
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="donate.html">Donate</a></li>
-            <li><a href="contact.html">Contact</a></li>
-        </ul>
-    </nav>
+    {% include navigation.html %}
 </header>
 
 <header>
