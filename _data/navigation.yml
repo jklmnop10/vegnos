@@ -1,0 +1,8 @@
+- name: Home
+  link: /vegnos/
+- name: About
+  link: /vegnos/about
+- name: Donate
+  link: /vegnos/donate
+- name: Contact
+  link: /vegnos/contact
