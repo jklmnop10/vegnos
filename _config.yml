@@ -1,3 +1,4 @@
+lang: en
 title: Vegnos
 description: Research and education on non-human intelligences or extraterrestrials and the implications these have for the human being. 
 
@@ -6,6 +7,9 @@ theme:
 plugins:
     - jekyll-feed
     - jekyll-sitemap
+
+feed:
+    posts-limit: 20
 
 defaults: 
     - scope: 
