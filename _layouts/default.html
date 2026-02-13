@@ -1,1 +1,41 @@
-{{ content }}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Research and education on nonhuman intelligences or extraterrestrials and the implications these have for the human being.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme-color" content="#ffffff">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <link rel="stylesheet" href="/assets/css/stylesheet.css">
+</head>
+<body>
+
+<header id="main-navigation" class="site-header">
+    <h1>{{ site.title }}</h1>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="donate.html">Donate</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<header>
+    <h2 id="page-title">{{ page.title}}</h2>
+</header>
+
+<div id="page-content">
+  {{ content }}
+</div>
+
+<hr>
+<footer>
+    <small>Copyright © 2026 Vegnos</small>
+</footer>
+
+</body>
+  </html>
