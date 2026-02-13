@@ -1,8 +1,8 @@
 - name: Home
-  link: /vegnos/
+  link: /
 - name: About
-  link: /vegnos/about
+  link: /about
 - name: Donate
-  link: /vegnos/donate
+  link: /donate
 - name: Contact
-  link: /vegnos/contact
+  link: /contact
