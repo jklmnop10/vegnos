@@ -69,6 +69,9 @@ html {
 h1, h2, h3, h4, h5, h6 {
 	font-family: var(--sans-font);
 }
+.site-header {
+	font-family: var(--sans-font);
+}
 
 /* Make the body a nice central block */
 body {
@@ -262,7 +265,7 @@ header nav {
 */
 
 /* Use flexbox to allow items to wrap, as needed */
-/***** commented out
+/*****
 header nav ul,
 header nav ol {
   align-content: space-around;
@@ -278,7 +281,7 @@ header nav ol {
 */
 
 /* List items are inline elements, make them behave more like blocks */
-/***** commented out
+/*****
 header nav ul li,
 header nav ol li {
   display: inline-block;
@@ -307,7 +310,7 @@ header nav a[aria-current="true"] {
 */
 
 /* Reduce nav side on mobile */
-/***** commented out
+/*****
 @media only screen and (max-width: 720px) {
   header nav a {
     border: none;
