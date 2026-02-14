@@ -78,6 +78,8 @@ a:hover {
 .site-header {
 	background-color: var(--accent-bg);
     border-bottom: var(--border-width) solid var(--border);
+	border-radius: .5em;
+	padding: .5rem; 
 }
 
 .site-header nav ul {
@@ -150,6 +152,7 @@ body {
   background-color: var(--bg);
   font-size: 1.15rem;
   line-height: 1.5;
+  padding: .5rem;
 }
 
 /* Add a little padding to ensure spacing is correct between content and header nav */
