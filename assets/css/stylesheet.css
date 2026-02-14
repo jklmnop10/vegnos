@@ -15,8 +15,7 @@
   --text: #212121;
   --text-light: #585858;
   --border: #898EA4;
-  /*--accent: #0d47a1;*/
-  --accent: #0b4f2c;
+  --accent: #0d47a1;
   --accent-hover: #1266e2;
   --accent-text: var(--bg);
   --code: #d81b60;
@@ -62,7 +61,8 @@ html {
 ========================= */
 
 .site-header {
-	background-color: var(--accent-bg);
+	/*background-color: var(--accent-bg);*/
+	background-color: #7F97D8;
     border: var(--border-width) solid var(--border);
 	border-radius: var(--standard-border-radius);
 	padding: 0 .5rem; 
