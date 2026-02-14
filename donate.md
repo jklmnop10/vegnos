@@ -17,7 +17,7 @@ Support Vegnos by contributing to our initiatives. Donations are tax-exempt.
 
 ### Where Does My Money Go?
 
-We put about 40% of your donation into our income account, and 60% of your donation into our growth account.  
+We put about 40% of your donation into our income account, and 60% of your donation into our growth account.
 
 We also aim to maintain a savings of about $500. 
 
