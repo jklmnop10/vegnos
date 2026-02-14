@@ -3,7 +3,7 @@ title: Donate
 layout: default
 ---
 
-Support Vegnos by contributing to our initiatives. We need $2,000 to achieve financial self-sufficiency this year. Donations are tax-exempt.
+Support Vegnos by contributing to our initiatives. **We need $2,000 to achieve financial self-sufficiency this year.** Donations are tax-exempt.
 
 * IRS Determination Letter
 
@@ -29,9 +29,9 @@ $400 would have gone to savings
 
 #### Income Account
 
-$600 would have gone to our income account. 
+$600 would have gone to our income account, and the growth would have paid for our domain name.
 
-**Allocation:**
+*Allocation:*
 
 - 60% FXNAX  
 - 5% FNBGX  
@@ -46,14 +46,11 @@ $600 × 1.0345 (3.45%) = $620.70
 
 **Gain:** +$20.70
 
-This would have paid for our domain name.
-{: .notice}
-
 #### Growth Account
 
-$1,000 would have gone to our growth account.
+$1,000 would have gone to our growth account, and the growth would have paid for all of our annual and biennial expenses.
 
-**Allocation:**
+*Allocation:*
 
 - 65% FSKAX  
 - 25% FSPSX  
@@ -64,9 +61,6 @@ Last year the returns would have been about 21.6%.
 $1,000 × 1.216 (21.6%) = $1,216.00
 
 **Gain:** +$216.00
-
-This would have paid for all of our annual and biennial expenses.
-{: .notice }
 
 #### Combined Scenario 
 
