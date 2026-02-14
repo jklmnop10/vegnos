@@ -1,5 +1,5 @@
 ---
-title: The Structure of the Alien Reality (prequel)
+title: The Structure of the Alien Reality (Draft Notes)
 layout: default
 ---
 
