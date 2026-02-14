@@ -5,8 +5,12 @@ layout: default
 
 Support Vegnos by contributing to our initiatives. Donations are tax-exempt.
 
+* IRS Determination Letter
+
+---
+
 <aside>
-<p><b>Our Current Assets</b>: $00.00</aside></p>
+<p><b>Our Current Assets</b>: $00.00</p>
 
 <p><b>Our Goal This Year</b>: $2,000</p>
 
@@ -14,10 +18,6 @@ Support Vegnos by contributing to our initiatives. Donations are tax-exempt.
 
 <p><b>We need $2,000 to achieve financial self sufficiency this year. Please donate!</b></p>
 </aside>
-
-* IRS Determination Letter
-
----
 
 ### Where Does My Money Go?
 
