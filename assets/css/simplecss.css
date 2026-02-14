@@ -63,8 +63,11 @@ progress {
 
 html {
   /* Set the font globally */
-  font-family: var(--sans-font);
+  font-family: var(--serif-font);
   scroll-behavior: smooth;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: var(--sans-font);
 }
 
 /* Make the body a nice central block */
