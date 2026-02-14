@@ -109,7 +109,23 @@ footer small {
     }
 }
 
-
+img.thumbnail {
+  border: var(--border-width) solid var(--border);
+  border-radius: var(--standard-border-radius);
+  padding: 5px;          /* Adds space between the border and the image */
+  width: 150px;          /* Sets a fixed width */
+}
+img.center {
+  display: block; /* Makes the image a block-level element */
+  margin-left: auto; /* Centers the image horizontally */
+  margin-right: auto; /* Centers the image horizontally */
+}
+img.img-left {
+  float: left;
+}
+img.img-right {
+	float: right;
+}
 
 
 
