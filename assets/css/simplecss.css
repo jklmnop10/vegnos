@@ -335,7 +335,7 @@ aside {
   width: 30%;
   padding: 0 15px;
   margin-inline-start: 15px;
-  float: right;
+  /*float: right;*/
 }
 *[dir="rtl"] aside {
   float: left;
