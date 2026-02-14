@@ -6,7 +6,9 @@ layout: default
 Support Vegnos by contributing to our initiatives. Donations are tax-exempt.
 
 **Our Current Assets**: $00.00
+
 **Our Goal This Year**: $2,000
+
 **Achievement So Far (Feb 2026)**: $00.00 of $2,000
 
 **We need $2,000 to achieve financial self sufficiency this year. Please donate!**
@@ -22,6 +24,7 @@ We also aim to maintain a savings of about $500.
 #### Income Account
 
 **Allocation:**
+
 - 60% FXNAX  
 - 5% FNBGX  
 - 3% SWRSX  
@@ -30,11 +33,15 @@ We also aim to maintain a savings of about $500.
 - 20% VMRXX  
 
 ##### Hypothetical Scenario (Last Year)
-**$1,000 invested → approximately $1,062**  
+
+**$1,000 invested → approximately $1,062**
+
 **Gain:** ≈ $62  
+
 **Return:** ≈ +6.25%
 
 _Note:_  
+
 This would pay for our domain name and some but not all of our annual amd biennual filing fees. 
 
 ---
@@ -42,16 +49,21 @@ This would pay for our domain name and some but not all of our annual amd biennu
 #### Growth Account
 
 **Allocation:**
+
 - 65% FSKAX  
 - 25% FSPSX  
 - 10% FPADX  
 
 ##### Hypothetical Scenario (Last Year)
+
 **$1,000 invested  → approximately $1,234**  
+
 **Gain:** ≈ $234  
+
 **Return:** ≈ +23.4%
 
-_Profile:_  
+_Note:_
+
 This would pay for all of our currently expected yearly expenses. 
 
 ---
@@ -67,7 +79,7 @@ This would pay for all of our currently expected yearly expenses.
 
 # Combined Scenario
 
-- **Total invested:** $2,000  
-- **Total ending value:** ≈ $2,296  
-- **Total gain:** ≈ $296  
+- **Total invested:** $2,000
+- **Total ending value:** ≈ $2,296
+- **Total gain:** ≈ $296 
 - **Blended return:** ~14.8%
