@@ -5,10 +5,6 @@ layout: default
 
 Support Vegnos by contributing to our initiatives. We need $2,000 to achieve financial self-sufficiency this year. Donations are tax-exempt.
 
-| Our Current Assets | *$00.00* |
-| Our Goal This Year | *$2,000* |
-| Achieved So Far (Feb 2026)| *$00.00 of $2,000* |
-
 * IRS Determination Letter
 
 ---
@@ -29,7 +25,7 @@ $2,000 invested last year would have looked like this:
 
 $400 would have gone to savings
 
-Gain: None
+**Gain:** None
 
 #### Income Account
 
@@ -48,9 +44,10 @@ Last year the returns would have been about 3.45%.
 
 $600 × 1.0345 (3.45%) = $620.70
 
-Gain: +$20.70
+**Gain:** +$20.70
 
-This would have paid for our domain name.{: .notice}
+This would have paid for our domain name.
+{: .notice}
 
 #### Growth Account
 
@@ -66,9 +63,10 @@ Last year the returns would have been about 21.6%.
 
 $1,000 × 1.216 (21.6%) = $1,216.00
 
-Gain: +$216.00
+**Gain:** +$216.00
 
-This would have paid for all of our annual and biennial expenses.{: .notice }
+This would have paid for all of our annual and biennial expenses.
+{: .notice }
 
 #### Combined Scenario 
 
