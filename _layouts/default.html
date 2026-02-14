@@ -1,18 +1,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="description" content="{{ site.description }}">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="theme-color" content="#ffffff">
-    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-    <!-- <link rel="stylesheet" href="{{site.baseurl}}/assets/css/simplecss.css"> -->
-    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/modern-normalize.css">
-    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/stylesheet.css">
-    {% feed_meta %}
-</head>
+    {% include head.html %}
 <body>
 
 <header id="main-navigation" class="site-header">
@@ -29,7 +18,7 @@
 </div>
 
 <footer>
-    <small>Copyright © 2026 Vegnos</small>
+    <small>Copyright © {{ "now" | date: "%Y" }} Vegnos</small>
 </footer>
 
 </body>
