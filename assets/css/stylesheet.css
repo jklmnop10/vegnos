@@ -1,4 +1,15 @@
 /* =========================
+   Fonts
+========================== */
+html { 
+   font-family: Georgia, serif;
+   font-size: 1.15rem;
+}
+.site-navigation {
+   font-family: Helvetica, Arial, sans-serif;
+}
+
+/* =========================
    Links
 ========================= */
 
