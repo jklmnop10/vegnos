@@ -85,7 +85,7 @@ body > * {
 }
 
 /* Make the header bg full width, but the content inline with body */
-body > header {
+body > .site-header {
   background-color: var(--accent-bg);
   border-bottom: var(--border-width) solid var(--border);
   /*text-align: center;*/
@@ -93,16 +93,16 @@ body > header {
   grid-column: 1 / -1;
 }
 
-body > header > *:only-child {
+body > .site-header > *:only-child {
   margin-block-start: 2rem;
 }
 
-body > header h1 {
+body > .site-header h1 {
   max-width: 1200px;
   margin: 1rem auto;
 }
 
-body > header p {
+body > .site-header p {
   max-width: 40rem;
   margin: 1rem auto;
 }
@@ -255,7 +255,7 @@ input:enabled:focus-visible:where(
 
 /* Format navigation */
 /***** commented out
-header nav {
+.site-header nav {
   font-size: 1rem;
   line-height: 2;
   padding: 1rem 0 0 0;
@@ -264,8 +264,8 @@ header nav {
 
 /* Use flexbox to allow items to wrap, as needed */
 
-header nav ul,
-header nav ol {
+.site-header nav ul,
+.site-header nav ol {
   align-content: space-around;
   align-items: center;
   display: flex;
@@ -279,13 +279,13 @@ header nav ol {
 
 /* List items are inline elements, make them behave more like blocks */
 
-header nav ul li,
-header nav ol li {
+.site-header nav ul li,
+.site-header nav ol li {
   display: inline-block;
 }
 
-header nav a,
-header nav a:visited {
+.site-header nav a,
+.site-header nav a:visited {
 /*  margin: 0 0.5rem 1rem 0.5rem;
   border: var(--border-width) solid var(--border);
   border-radius: var(--standard-border-radius);
@@ -295,10 +295,10 @@ header nav a:visited {
   text-decoration: none; */
 }
 
-header nav a:hover,
-header nav a.current,
-header nav a[aria-current="page"],
-header nav a[aria-current="true"] {
+.site-header nav a:hover,
+.site-header nav a.current,
+.site-header nav a[aria-current="page"],
+.site-header nav a[aria-current="true"] {
 /*  background: var(--bg);
   border-color: var(--accent);
   color: var(--accent);
@@ -308,14 +308,14 @@ header nav a[aria-current="true"] {
 /* Reduce nav side on mobile */
 
 @media only screen and (max-width: 720px) {
-  header nav a {
+  .site-header nav a {
     border: none;
     padding: 0;
     text-decoration: underline;
     line-height: 1;
   }
 
-  header nav a.current {
+  .site-header nav a.current {
     background: none;
   }
 }
