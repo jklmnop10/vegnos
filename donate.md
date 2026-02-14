@@ -9,7 +9,7 @@ Support Vegnos by contributing to our initiatives. **We need $2,000 to achieve f
 
 ---
 
-### Where Does My Money Go?
+## Where Does My Money Go?
 
 We allocate your donation as follows:
 
@@ -21,13 +21,13 @@ We allocate your donation as follows:
 
 $2,000 invested last year would have looked like this:
 
-#### Savings
+### Savings
 
 $400 would have gone to savings
 
 **Gain:** None
 
-#### Income Account
+### Income Account
 
 $600 would have gone to our income account, and the growth would have paid for our domain name.
 
@@ -46,7 +46,7 @@ $600 × 1.0345 (3.45%) = $620.70
 
 **Gain:** +$20.70
 
-#### Growth Account
+### Growth Account
 
 $1,000 would have gone to our growth account, and the growth would have paid for all of our annual and biennial expenses.
 
