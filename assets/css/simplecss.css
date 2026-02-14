@@ -267,7 +267,7 @@ input:enabled:focus-visible:where(
 .site-header nav ul,
 .site-header nav ol {
   align-content: space-around;
-  align-items: center;
+  /* align-items: center; */
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
