@@ -5,8 +5,6 @@ layout: default
 
 Support Vegnos by contributing to our initiatives. **We need $2,000 to achieve financial self-sufficiency this year.** Donations are tax-exempt.
 
-[Donate](/donate){: .button .disabled }
-
 * IRS Determination Letter
 
 ---
