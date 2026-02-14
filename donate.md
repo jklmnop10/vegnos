@@ -5,6 +5,7 @@ layout: default
 
 Support Vegnos by contributing to our initiatives. Donations are tax-exempt.
 
+<aside>
 *Our Current Assets*: $00.00
 
 *Our Goal This Year*: $2,000
@@ -12,6 +13,7 @@ Support Vegnos by contributing to our initiatives. Donations are tax-exempt.
 *Achievement So Far (Feb 2026)*: $00.00 of $2,000
 
 **We need $2,000 to achieve financial self sufficiency this year. Please donate!**
+</aside>
 
 * IRS Determination Letter
 
