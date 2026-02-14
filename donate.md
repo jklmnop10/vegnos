@@ -67,7 +67,7 @@ We also aim to maintain a savings of about $500.
 | Income  | $1,000   | ~$1,062 | ~$62  | ~6.25% |
 | Growth  | $1,000   | ~$1,234 | ~$234 | ~23.4% |
 
-### Combined Scenario
+#### Combined Scenario
 
 - **Total invested:** $2,000
 - **Total ending value:** ≈ $2,296
