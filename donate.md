@@ -5,15 +5,17 @@ layout: default
 
 Support Vegnos by contributing to our initiatives. Donations are tax-exempt.
 
-**Our Current Assets**: $00.00
+*Our Current Assets*: $00.00
 
-**Our Goal This Year**: $2,000
+*Our Goal This Year*: $2,000
 
-**Achievement So Far (Feb 2026)**: $00.00 of $2,000
+*Achievement So Far (Feb 2026)*: $00.00 of $2,000
 
 **We need $2,000 to achieve financial self sufficiency this year. Please donate!**
 
 * IRS Determination Letter
+
+---
 
 ### Where Does My Money Go?
 
@@ -32,19 +34,13 @@ We also aim to maintain a savings of about $500.
 - 6% VWEAX  
 - 20% VMRXX  
 
-##### Hypothetical Scenario (Last Year)
+*$1,000 invested → approximately $1,062*
 
-**$1,000 invested → approximately $1,062**
+*Gain:* ≈ $62  
 
-**Gain:** ≈ $62  
+*Return:* ≈ +6.25%
 
-**Return:** ≈ +6.25%
-
-_Note:_  
-
-This would pay for our domain name and some but not all of our annual amd biennual filing fees. 
-
----
+**Note:**  This would pay for our domain name and some but not all of our annual amd biennual filing fees. 
 
 #### Growth Account
 
@@ -54,30 +50,22 @@ This would pay for our domain name and some but not all of our annual amd biennu
 - 25% FSPSX  
 - 10% FPADX  
 
-##### Hypothetical Scenario (Last Year)
+*$1,000 invested  → approximately $1,234*
 
-**$1,000 invested  → approximately $1,234**  
+*Gain:* ≈ $234  
 
-**Gain:** ≈ $234  
+*Return:* ≈ +23.4%
 
-**Return:** ≈ +23.4%
+**Note:** This would pay for all of our currently expected yearly expenses. 
 
-_Note:_
-
-This would pay for all of our currently expected yearly expenses. 
-
----
-
-# Direct Comparison (Last Year)
+#### Direct Comparison (Last Year)
 
 | Account | Starting | Ending | Gain | Return |
 |---------|----------|--------|------|--------|
 | Income  | $1,000   | ~$1,062 | ~$62  | ~6.25% |
 | Growth  | $1,000   | ~$1,234 | ~$234 | ~23.4% |
 
----
-
-# Combined Scenario
+### Combined Scenario
 
 - **Total invested:** $2,000
 - **Total ending value:** ≈ $2,296
