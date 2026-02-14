@@ -15,11 +15,25 @@ Support Vegnos by contributing to our initiatives. We need $2,000 to achieve fin
 
 ### Where Does My Money Go?
 
-We put about 40% of your donation into our income account, and 60% of your donation into our growth account.
+We allocate your donation as follows:
 
-We also aim to maintain a savings of about $500. 
+|Allocation | Account|
+|-------|--------|
+|20% | Savings |
+|30% | Income account |
+|50% | Growth account |
+
+$2,000 invested last year would have looked like this:
+
+#### Savings
+
+$400 would have gone to savings
+
+Gain: None
 
 #### Income Account
+
+$600 would have gone to our income account. 
 
 **Allocation:**
 
@@ -28,42 +42,39 @@ We also aim to maintain a savings of about $500.
 - 3% SWRSX  
 - 6% VEGBX  
 - 6% VWEAX  
-- 20% VMRXX  
+- 20% VMRXX
 
-*$1,000 invested → approximately $1,062*
+Last year the returns would have been about 3.45%.
 
-*Gain:* ≈ $62  
+$600 × 1.0345 (3.45%) = $620.70
 
-*Return:* ≈ +6.25%
+Gain: +$20.70
 
-**Note:**  This would pay for our domain name and our annual amd biennial filing fees.
+This would have paid for our domain name.{: .notice}
 
 #### Growth Account
+
+$1,000 would have gone to our growth account.
 
 **Allocation:**
 
 - 65% FSKAX  
 - 25% FSPSX  
-- 10% FPADX  
+- 10% FPADX
 
-*$1,000 invested  → approximately $1,234*
+Last year the returns would have been about 21.6%.
 
-*Gain:* ≈ $234  
+$1,000 × 1.216 (21.6%) = $1,216.00
 
-*Return:* ≈ +23.4%
+Gain: +$216.00
 
-**Note:** This would pay for all of our currently expected yearly expenses. 
+This would have paid for all of our annual and biennial expenses.{: .notice }
 
-#### Direct Comparison (Last Year)
+#### Combined Scenario 
 
-| Account | Starting | Ending | Gain | Return |
-|---------|----------|--------|------|--------|
-| Income  | $1,000   | ~$1,062 | ~$62  | ~6.25% |
-| Growth  | $1,000   | ~$1,234 | ~$234 | ~23.4% |
-
-#### Combined Scenario
-
-- **Total invested:** $2,000
-- **Total ending value:** ≈ $2,296
-- **Total gain:** ≈ $296 
-- **Blended return:** ~14.8%
+| Account  | Starting Amount | Return % (2024) | Ending Amount | Gain |
+|-----------|-----------------|-----------------|--------------|-------|
+| Income    | $600            | 3.45%           | $620.70      | $20.70 |
+| Growth    | $1,000          | 21.6%           | $1,216.00    | $216.00 |
+| Savings   | $400            | 0%              | $400.00      | $0.00 |
+| **Total** | **$2,000**      | **~11.8%**      | **$2,236.70**| **$236.70** |
