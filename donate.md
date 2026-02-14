@@ -21,7 +21,7 @@ We allocate your donation as follows:
 
 $2,000 invested last year would have looked like this:
 
-### Savings
+### Savings Account
 
 $400 would have gone to savings
 
