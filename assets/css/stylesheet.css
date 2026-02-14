@@ -1,8 +1,8 @@
-/*
+
 /* =========================
    Global Reset & Base
 ========================= */
-
+/*
 * {
     box-sizing: border-box;
     margin: 0;
@@ -16,7 +16,7 @@ body {
     color: #111;
     padding: 1rem;
 }
-
+*/
 /* =========================
    Links
 ========================= */
@@ -34,34 +34,9 @@ a:hover {
 }
 
 /* =========================
-   Typography
-========================= */
-
-/* Sophisticated default system sans-serif stack */
-.site-header,
-.site-header h1,
-header h2,
-nav {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
-                 Roboto, "Helvetica Neue", Arial, sans-serif;
-}
-
-h1 {
-    margin-bottom: 0.5rem;
-}
-
-h2 {
-    margin: 1.5rem 0 1rem 0;
-}
-
-h3 {
-    margin: 1rem 0 .5rem 0;
-}
-
-/* =========================
    Navigation
 ========================= */
-
+/*
 .site-header {
     margin-bottom: 1.5rem;
 }
@@ -82,32 +57,32 @@ h3 {
 .site-header nav a:hover {
     text-decoration: underline;
 }
-
+*/
 /* =========================
    Lists
 ========================= */
-
+/*
 #page-content ul,
 #page-content ol {
-    margin: 1rem 0 1rem 1.75rem; /* appropriate indent */
+    margin: 1rem 0 1rem 1.75rem;
 }
 
 #page-content li {
     margin-bottom: 0.5rem;
 }
-
+*/
 /* =========================
    Page Content
 ========================= */
-
+/*
 #page-content {
     margin-bottom: 2rem;
 }
-
+*/
 /* =========================
    Footer
 ========================= */
-
+/*
 footer {
     margin-top: 1rem;
 }
@@ -116,12 +91,11 @@ footer small {
     font-size: 0.8rem;
     color: #555;
 }
-
+*/
 /* =========================
    Responsive Layout
 ========================= */
-
-/* Larger than large smartphone (~768px and up) */
+/*
 @media (min-width: 768px) {
     body {
         max-width: 60%;
