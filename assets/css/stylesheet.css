@@ -109,6 +109,9 @@ footer small {
     }
 }
 
+img {
+	margin:.5rem;
+}
 img.thumbnail {
   border: var(--border-width) solid var(--border);
   border-radius: var(--standard-border-radius);
