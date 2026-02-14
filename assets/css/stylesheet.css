@@ -1,22 +1,6 @@
-
-/* =========================
-   Global Reset & Base
-========================= */
-/*
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-
 body {
     font-family: Georgia, serif;
-    line-height: 1.6;
-    background-color: #f6f8f5; /* very light pale tone */
-    color: #111;
-    padding: 1rem;
 }
-*/
 /* =========================
    Links
 ========================= */
@@ -36,7 +20,7 @@ a:hover {
 /* =========================
    Navigation
 ========================= */
-/*
+
 .site-header {
     margin-bottom: 1.5rem;
 }
@@ -57,32 +41,11 @@ a:hover {
 .site-header nav a:hover {
     text-decoration: underline;
 }
-*/
-/* =========================
-   Lists
-========================= */
-/*
-#page-content ul,
-#page-content ol {
-    margin: 1rem 0 1rem 1.75rem;
-}
 
-#page-content li {
-    margin-bottom: 0.5rem;
-}
-*/
-/* =========================
-   Page Content
-========================= */
-/*
-#page-content {
-    margin-bottom: 2rem;
-}
-*/
 /* =========================
    Footer
 ========================= */
-/*
+
 footer {
     margin-top: 1rem;
 }
@@ -91,7 +54,7 @@ footer small {
     font-size: 0.8rem;
     color: #555;
 }
-*/
+
 /* =========================
    Responsive Layout
 ========================= */
