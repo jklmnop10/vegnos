@@ -62,7 +62,7 @@ html {
 
 .site-header {
 	/*background-color: var(--accent-bg);*/
-	background-color: #7F97D8;
+	background-color: #ADD8E6;
     border: var(--border-width) solid var(--border);
 	border-radius: var(--standard-border-radius);
 	padding: 0 .5rem; 
