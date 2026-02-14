@@ -36,7 +36,7 @@ We also aim to maintain a savings of about $500.
 
 *Return:* ≈ +6.25%
 
-**Note:**  This would pay for our domain name and some but not all of our annual amd biennual filing fees. 
+**Note:**  This would pay for our domain name and our annual amd biennial filing fees.
 
 #### Growth Account
 
