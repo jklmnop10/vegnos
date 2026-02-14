@@ -85,7 +85,6 @@ body > * {
 }
 
 /* Make the header bg full width, but the content inline with body */
-/***** 
 body > header {
   background-color: var(--accent-bg);
   border-bottom: var(--border-width) solid var(--border);
@@ -107,7 +106,6 @@ body > header p {
   max-width: 40rem;
   margin: 1rem auto;
 }
-*/
 
 /* Add a little padding to ensure spacing is correct between content and header nav */
 main {
