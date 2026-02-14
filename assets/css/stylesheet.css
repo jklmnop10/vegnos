@@ -78,14 +78,8 @@ a:hover {
 .site-header {
     margin-bottom: 1rem;
 	background-color: var(--accent-bg);
-}
-
-body > .site-header {
-  background-color: var(--accent-bg);
-  border-bottom: var(--border-width) solid var(--border);
-  /*text-align: center;*/
-  padding: 0 0.5rem 2rem 0.5rem;
-  grid-column: 1 / -1;
+    border-bottom: var(--border-width) solid var(--border);
+    padding: 0 0.5rem 2rem 0.5rem;
 }
 
 .site-header nav ul {
