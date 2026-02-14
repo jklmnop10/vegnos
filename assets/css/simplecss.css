@@ -248,13 +248,16 @@ input:enabled:focus-visible:where(
 }
 
 /* Format navigation */
+/***** commented out
 header nav {
   font-size: 1rem;
   line-height: 2;
   padding: 1rem 0 0 0;
 }
+*/
 
 /* Use flexbox to allow items to wrap, as needed */
+/***** commented out
 header nav ul,
 header nav ol {
   align-content: space-around;
@@ -267,8 +270,10 @@ header nav ol {
   margin: 0;
   padding: 0;
 }
+*/
 
 /* List items are inline elements, make them behave more like blocks */
+/***** commented out
 header nav ul li,
 header nav ol li {
   display: inline-block;
@@ -294,8 +299,10 @@ header nav a[aria-current="true"] {
   color: var(--accent);
   cursor: pointer;
 }
+*/
 
 /* Reduce nav side on mobile */
+/***** commented out
 @media only screen and (max-width: 720px) {
   header nav a {
     border: none;
@@ -308,6 +315,7 @@ header nav a[aria-current="true"] {
     background: none;
   }
 }
+*/
 
 /* Consolidate box styling */
 aside, details, pre, progress {
