@@ -23,13 +23,13 @@ $2,000 invested last year would have looked like this:
 
 ### Savings Account
 
-$400 would have gone to savings, which would have more than covered our annual and biennial expenses. 
+$400 would have gone to our cash account, which would have more than covered our annual and biennial expenses. The cash account is budgeted annually.
 
 **Gain:** None
 
 ### Income Account
 
-$600 would have gone to our income account, and the growth would have paid for our domain name.
+$600 would have gone to our income account, and the growth would have paid for our domain name. Our goal is to have the income account passively generate all our necessary regular income. 
 
 *Allocation:*
 
