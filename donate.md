@@ -23,7 +23,7 @@ $2,000 invested last year would have looked like this:
 
 ### Savings Account
 
-$400 would have gone to savings
+$400 would have gone to savings, which would have more than covered our annual and biennial expenses. 
 
 **Gain:** None
 
@@ -48,7 +48,7 @@ $600 × 1.0345 (3.45%) = $620.70
 
 ### Growth Account
 
-$1,000 would have gone to our growth account, and the growth would have paid for all of our annual and biennial expenses.
+$1,000 would have gone to our growth account. We do not mess with anything in this account without special board approval. 
 
 *Allocation:*
 
