@@ -12,7 +12,9 @@ Support Vegnos by contributing to our initiatives. **We need $2,000 to achieve f
 
 ## Where Does My Money Go?
 
-We allocate your donation as follows:
+If you would like to restrict your donation to specific uses, please [contact us](/contact).
+
+We allocate unrestricted donations as follows:
 
 |Allocation | Account|
 |-------|--------|
