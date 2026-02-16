@@ -5,9 +5,9 @@ layout: default
 
 ![Vegnos corporate seal]({{site.baseurl}}/assets/images/seal-thumbnail.png){: .thumbnail .img-left }
 
-Vegnos (pronounced /vɛɡnoʊs/) is a 501(c)(3) non-profit organization that explores how non-human and extraterrestrial intelligences shape human history, power, and society. We reveal the hidden patterns behind myth, ritual, and cosmology to help make sense of the deeper structures that influence reality.
+**Vegnos** (pronounced */vɛɡnoʊs/*) is a 501(c)(3) non-profit organization that explores how non-human and extraterrestrial intelligences shape human history, power, and society. We reveal the hidden patterns behind myth, ritual, and cosmology to help make sense of the deeper structures that influence reality.
 
-## What We Study
+### What We Study
 
 * **Non-Human and Extraterrestrial Intelligences** --- We investigate entities beyond human perception that may impact human evolution, society, and spiritual development. 
 
@@ -15,11 +15,10 @@ Vegnos (pronounced /vɛɡnoʊs/) is a 501(c)(3) non-profit organization that exp
   
 * **Historical Secret Societies and Occult Knowledge** --- We outline networks, hierarchies, and mystical interpretations of power that demonstrate the ways esoteric knowledge has been maintained, concealed, and transmitted through history.
 
-## Our Approach
+### Our Approach
 
 Vegnos integrates these areas of study to reveal how occult knowledge and historical esotericism reveal a distinct truth: aliens create and manage our reality! 
 
-## Engage with Us
+### Engage with Us
 
-Your support allows Vegnos to continue research, publish findings, and educate the public about the hidden forces influencing humanity. [Donations]({{site
-baseurl}}/donate) fund both immediate operational needs and future projects, such as publications or educational initiatives exploring the evidence for non-human intelligences.
+Your support allows Vegnos to continue research, publish findings, and educate the public about the hidden forces influencing humanity. [Donations]({{site.baseurl}}/donate) fund both immediate operational needs and future projects, such as publications or educational initiatives exploring the evidence for non-human intelligences. [Contact us]({{site.baseurl}}/contact) for more information.
