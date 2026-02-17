@@ -2,7 +2,6 @@
 title: The Structure of the Alien Reality (Draft Notes)
 author: Vegnos
 date: 2026-02-14
-layout: default
 published: false 
 ---
 
