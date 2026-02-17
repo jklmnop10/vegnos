@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: default
+layout: page
 ---
 
 Vegnos is a nonprofit dedicated to exploring the implications of non-human or extraterrestrial intelligences. [Learn more &#x300B;](/about)
