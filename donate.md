@@ -1,6 +1,6 @@
 ---
 title: Donate
-layout: default
+layout: page
 ---
 
 Support Vegnos by contributing to our initiatives. **We need $2,000 to achieve financial self-sufficiency this year. That's $167 for 12 months.** Donations are tax-deductible.
