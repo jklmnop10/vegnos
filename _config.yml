@@ -17,3 +17,7 @@ defaults:
         path: _posts
       values: 
         layout: post
+  - scope:
+      path: "" # An empty string targets all files in the project
+    values:
+      layout: "page" # Use the name of your layout file in the _layouts folder without extension
