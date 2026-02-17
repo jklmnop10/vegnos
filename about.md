@@ -1,6 +1,6 @@
 ---
 title: About
-layout: default
+layout: page
 ---
 
 ![Vegnos corporate seal]({{site.baseurl}}/assets/images/seal.png){: .thumbnail .img-left }
