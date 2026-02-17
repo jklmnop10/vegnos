@@ -2,7 +2,6 @@
 title: Notebooks Claim Mind Control, Alien Contact
 author: Vegnos
 date: 2026-02-14
-layout: default
 ---
 
 These notebooks are records by John Jacobi as he experienced what he describes as mind control, non-human intelligences, and covert social structures during a period of initiation, alien contact, and potentially mind control experimentation. 
