@@ -129,6 +129,19 @@ img.img-right {
 	float: right;
 }
 
+/********** Post list ul behavior */
+.post-list {
+  list-style-type: none; /* Removes bullet points */
+  padding: 0;           /* Removes default left padding/indentation */
+  margin: 0;            /* Removes default top/bottom margins */
+}
+
+.post-list li {
+  /* You may also need to adjust margins/padding on the list items */
+  margin: 0;
+  padding: 0;
+}
+
 
 
 
