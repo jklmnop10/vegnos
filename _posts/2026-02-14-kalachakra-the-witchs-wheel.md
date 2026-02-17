@@ -3,6 +3,7 @@ title: The Structure of the Alien Reality (Draft Notes)
 author: Vegnos
 date: 2026-02-14
 layout: default
+published: false 
 ---
 
 The purpose of this page is to make it obvious that reality is created and managed by non-human intelligences. It is a prequel to our planned 2028 monograph, _The Structure of the Alien Reality_. None of it qualifies as "proof," but the overall picture painted and the nature of the connections outlined should convince most reasonable people of the alien reality and the nature of the alien reality. 
