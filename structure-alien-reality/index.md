@@ -12,21 +12,21 @@ In explaining the alien reality, the main symbol of reflection will be the wheel
 </article>
 
 <article markdown="1">
-  ### The Three Kabbalahs: Western, Eastern, and Northern
+### The Three Kabbalahs: Western, Eastern, and Northern
 </article>
 
 <article markdown="1">
-  ### The A. A.: The Backbone of the Synarchy
+### The A. A.: The Backbone of the Synarchy
 </article>
 
 <article markdown="1">
-  ### The Monarchy: The Dragon Social System
+### The Monarchy: The Dragon Social System
 </article>
 
 <article markdown="1">
-  ### New World Order: Secular States and the Illuminati
+### New World Order: Secular States and the Illuminati
 </article>
 
 <article markdown="1">
-  ### Time and Timelessness
+### Time and Timelessness
 </article>
