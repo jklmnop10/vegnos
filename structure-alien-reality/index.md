@@ -6,9 +6,9 @@ layout: page
 One of our big goals for the next 1-2 years is to produce a monograph explaining the general structure of the alien reality. Here you can get a preview of the topics we hope to cover.
 
 <article markdown="1">
-  ### Kalachakra: The Core Alien Conflict
+### Kalachakra: The Core Alien Conflict
 
-  In explaining the alien reality, the main symbol of reflection will be the wheel of time, or the witch's wheel, or the kalachakra mandala.
+In explaining the alien reality, the main symbol of reflection will be the wheel of time, or the witch's wheel, or the kalachakra mandala.
 </article>
 
 <article markdown="1">
